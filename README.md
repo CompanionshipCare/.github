@@ -1,2 +1,3 @@
-# .github
-About our organiztion
+# Companionship Care
+
+Promoting wellness by fostering companionship
